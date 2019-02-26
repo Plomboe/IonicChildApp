@@ -1,4 +1,11 @@
-.welcome-card ion-img {
-  max-height: 35vh;
+.main-title-card ion-img {
+  max-height: 25vh;
   overflow: hidden;
+}
+
+.sub-home-cards {
+  background-image: url("https://images.unsplash.com/photo-1503676260728-1c00da094a0b");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
 }
